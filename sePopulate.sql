@@ -120,6 +120,27 @@ insert into Product
 values
 (15, 15, 81.48, 'Gumbo Limbo', 0.00, 14);
 
+prompt Department inserts
+
+insert into Department
+values
+(1, 'Nav', 1);
+
+insert into Department
+values
+(2, 'Electrical', 2);
+
+insert into Department
+values
+(3, 'Cams', 3);
+
+insert into Department
+values
+(4, 'Medbay', 4);
+
+insert into Department
+values
+(5, 'Engineering', 5);
 
 prompt Vendor inserts
 
