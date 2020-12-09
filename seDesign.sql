@@ -33,6 +33,15 @@ prod_name varchar2(20),
 total_sales decimal(19,4) NOT NULL,
 pic_num int,
 primary key (prod_id));
+             
+drop table Department cascade constraints;
+
+create table Department
+(dept_num int,
+dept_name varchar2(20),
+empl_id int,
+primary key (dept_num),
+foreign key (empl_id) references Employee);
 
 drop table Vendor cascade constraints;
 
