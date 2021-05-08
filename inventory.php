@@ -46,7 +46,8 @@ $trees = array("coconut", "palm", "oak", "fern", "date", "cacao", "redwood", "eu
                       <td> <?= $curr_name ?> </td>
                       <td> $<?= $curr_price ?> </td>
                       <td> <?= $curr_inv ?> </td> 
-<td> <img src='http://nrs-projects.humboldt.edu/~jp431/proj458/<?= $trees[$curr_pic] ?>.jpg'> </td> </tr>
+			 
+<td> <img src='http://nrs-projects.humboldt.edu/~<replace with host user>/proj458/<?= $trees[$curr_pic] ?>.jpg'> </td> </tr>
 <?php 
 //} 
 ?>
