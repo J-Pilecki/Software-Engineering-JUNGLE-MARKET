@@ -2,7 +2,7 @@
 
 /*===
     by: Jesse Garcia
-    last modified: DECEMBER 4, 2020 by JUSTIN PILECKI cleaned up code by removing a commented-out line. -JP
+    last modified: DECEMBER 4, 2020
     Team 4
 ===*/
 
