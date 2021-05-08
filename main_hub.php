@@ -9,12 +9,7 @@
 
      by: group 4
     last modified: 12-08-2020
-    Justin Pilecki removed unused code that was commented out
 
-    you can run this using the URL:
-http://nrs-projects.humboldt.edu/~aim4/458project/main_hub.php
-http://nrs-projects.humboldt.edu/~jg3491/projectSql/main_hub.php
-http://nrs-projects.humboldt.edu/~jp431/proj458/main_hub.php
 -->
 
 <head>
@@ -43,8 +38,6 @@ http://nrs-projects.humboldt.edu/~jp431/proj458/main_hub.php
 </head>
 
 <body>
-<!-- <p>    <img src="archery.png" id="whatever" alt="bookstore"
-    width= "300" /> -->
 
 <div class="store_name">
 
