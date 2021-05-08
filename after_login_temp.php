@@ -10,9 +10,6 @@
 
         <?php  
 
-             
-             //save for future use
-
              $user_name = $_SESSION["user_name"]; 
              $user_password = $_SESSION["user_password"]; 
 
