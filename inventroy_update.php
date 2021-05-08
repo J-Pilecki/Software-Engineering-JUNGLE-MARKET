@@ -1,6 +1,6 @@
 <?php
     /*---
-        last modified: 12/08/20 - Justin removed commented-out unused code
+        last modified: 12/08/20
         Team 4
     ---*/
 
