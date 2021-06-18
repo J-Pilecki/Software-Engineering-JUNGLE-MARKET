@@ -1,4 +1,4 @@
-/* Created by: Justin Pilecki */
+/* Created by: J. Pilecki */
 
 delete from Customer_Product_Purchases;
 delete from Quarterly_Finances;
