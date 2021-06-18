@@ -1,8 +1,6 @@
 <?php
 
 /*===
-    by: Jesse Garcia
-    last modified: DECEMBER 4, 2020
     Team 4
 ===*/
 
@@ -27,7 +25,7 @@ function customer_form()
           action="<?= htmlentities($_SERVER['PHP_SELF'], 
                                    ENT_QUOTES) ?>" id="customer_order_form">
            
-                <h1 id="sign_up_header">Loyalty Sign Up</h1> <!-- <legend> Enter the following for Loyalty Sign up </legend> -->
+                <h1 id="sign_up_header">Loyalty Sign Up</h1>
                 <div class="customer_order_sect"> 
                 <label for="value1">
                         Enter your first name: </label>
