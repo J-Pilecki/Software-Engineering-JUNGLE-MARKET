@@ -1,6 +1,4 @@
--- Jesse Garcia
--- Nov 7, 2020
-
+-- Team 4
 create or replace procedure project_insert(cus_fname customer.cust_fname%TYPE,
                                         cus_lname customer.cust_lname%TYPE,
                                         cus_pho customer.cust_phone%TYPE,
