@@ -25,7 +25,7 @@
           rel="stylesheet" />
 
           <?php
-          require("inventroy_update.php");
+          require("inventory_update.php");
           require("hsu_conn_sess.php");
           require("after_login_temp.php"); 
           require("login_page.php");
@@ -66,12 +66,12 @@ elseif($_SESSION["next_state"] == "choice" and
     $_SESSION["user_password"] = $user_password;
 
     inventory_page();
-    $_SESSION["next_state"]="inventroy_update";
+    $_SESSION["next_state"]="inventory_update";
 }
 
-elseif($_SESSION['next_state']=="inventroy_update")
+elseif($_SESSION['next_state']=="inventory_update")
 {
-    inventroy_update();
+    inventory_update();
     $_SESSION["next_state"]="done";
 
 }
@@ -103,7 +103,7 @@ elseif($_SESSION["next_state"] == "inventory_after_signup")
 
 elseif($_SESSION["next_state"] == "to_update")
 {
-    inventroy_update(); 
+    inventory_update(); 
     $_SESSION["next_state"] = "done"; 
 }
 
