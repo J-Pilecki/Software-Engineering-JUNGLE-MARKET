@@ -1,7 +1,5 @@
 <?php
     /*---
-        by: Jesse Garcia
-        last modified: 11/4/20
         Team 4
     ---*/
 
