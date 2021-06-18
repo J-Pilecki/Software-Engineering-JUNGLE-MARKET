@@ -1,4 +1,4 @@
-/* Created by: Justin Pilecki */
+/* Created by: J. Pilecki */
 
 
 drop table Employee cascade constraints;
